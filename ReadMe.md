@@ -1,0 +1,1 @@
+This repository contains web application samples developed using only JavaScript on client as well as server.
